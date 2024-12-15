@@ -11,8 +11,8 @@ This repository contains a simple load-balanced Node.js application using Docker
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/giftlion/nginx-load-balancer.git
+   cd nginx-load-balancer
    ```
 
 2. Start the application using Docker Compose:
